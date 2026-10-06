@@ -1,15 +1,128 @@
-# 💫 About Me:
-# Hey, I'm Rayyan 👋<br><br>### Full-Stack & Applied AI Engineer<br><br>I enjoy building products end-to-end — from the interface and backend architecture to the AI systems behind them.<br><br>Right now, I'm focused on **Applied AI**, particularly **RAG, AI agents, tool calling, developer tools, and production LLM applications**.<br><br>What interests me most isn't building AI demos. I want to build software that solves an actual problem — something I would genuinely use myself or that makes someone else's life easier.<br><br>### 🔭 I'm currently working on<br><br>**Applied AI engineering** — exploring how LLMs can become part of reliable software systems rather than standalone chat interfaces.<br><br>My recent work includes:<br><br>- Context-aware AI code review using RAG<br>- Autonomous coding agents<br>- Agent tool calling and sandboxed execution<br>- Vector search and embeddings<br>- Event-driven AI workflows<br>- Full-stack AI applications<br><br>### 👯 I'm looking to collaborate on<br><br>**Useful Full-Stack + Applied AI products.**<br><br>I'm particularly interested in collaborating on:<br><br>- AI developer tools<br>- RAG applications<br>- AI agents<br>- productivity tools<br>- intelligent automation<br>- open-source AI applications<br>- products solving real-world problems<br><br>If we're building something people would actually use, I'm interested.<br><br>### 🤝 I'm looking for help with<br><br>Taking AI applications from **"it works" → "it works reliably at scale."**<br><br>I'm particularly interested in learning more about:<br><br>- System design<br>- Distributed systems<br>- scalable backend architecture<br>- production AI architecture<br>- RAG evaluation and retrieval quality<br>- agent reliability and observability<br>- queues and asynchronous processing<br>- caching and distributed state<br>- designing systems for real-world traffic<br><br>### 🌱 I'm currently learning<br><br>**System Design + deeper Applied AI Engineering**<br><br>I'm currently going deeper into:<br><br>`System Design` · `Distributed Systems` · `RAG` · `AI Agents` · `LLM Evaluation` · `Production AI`<br><br>### 🧠 What I've been building<br><br>**RayCodeAI Reviewer**<br><br>An autonomous, context-aware AI code review platform that connects to GitHub and reviews pull requests using repository-level context.<br><br>`Next.js` · `TypeScript` · `RAG` · `Pinecone` · `Inngest` · `OpenRouter` · `PostgreSQL` · `Prisma` · `GitHub Apps`<br><br>---<br><br>**r0.dev**<br><br>An AI-powered full-stack application builder with an autonomous coding agent capable of executing commands, manipulating files and generating applications inside isolated cloud sandboxes.<br><br>`Next.js` · `TypeScript` · `Inngest AgentKit` · `E2B` · `Prisma` · `PostgreSQL`<br><br>---<br><br>**FormBuilder SaaS**<br><br>A type-safe full-stack form-building platform built as a monorepo with separate frontend, API and shared packages.<br><br>`Next.js` · `Express` · `tRPC` · `Turborepo` · `Drizzle` · `PostgreSQL` · `TypeScript`<br><br>### ⚙️ Tech I work with<br><br>**Languages**<br><br>JavaScript · TypeScript · Java · Python · SQL<br><br>**Frontend**<br><br>React · Next.js · Tailwind CSS<br><br>**Backend**<br><br>Node.js · Express · Spring Boot · REST APIs · tRPC<br><br>**Applied AI**<br><br>LLM APIs · RAG · AI Agents · Tool Calling · Embeddings · Vector Search · Vercel AI SDK · OpenRouter<br><br>**Data**<br><br>PostgreSQL · MongoDB · Prisma · Drizzle · Pinecone · Qdrant · Redis<br><br>**Infrastructure & Tools**<br><br>Git · GitHub · Docker · Inngest · BullMQ · Postman<br><br>### ⚡ What drives me<br><br>I'm passionate about **building things that are actually useful**.<br><br>I'd rather build one product that solves a genuine problem than ten projects that exist only to fill a GitHub profile.<br><br>I'm especially interested in the intersection of:<br><br>**Software Engineering × Applied AI × Useful Products**
+# Hey, I'm Rayyan 👋
 
+### Full-Stack & Applied AI Engineer
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rayyan4533&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rayyan4533&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayyan4533&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build products end-to-end — from responsive interfaces and backend systems to AI-powered applications.
+
+Currently focused on **Applied AI**, particularly RAG, AI agents, tool calling, developer tools, and production LLM systems.
+
+I enjoy building software that solves real problems — products I would genuinely use myself or that make someone else's life easier.
 
 ---
-[![](https://komarev.com/ghpvc/?username=rayyan4533&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+### RayCodeAI Reviewer
+
+An autonomous, context-aware AI code review platform that connects to GitHub and reviews pull requests using repository-level context.
+
+**Tech:** Next.js · TypeScript · RAG · Pinecone · Inngest · OpenRouter · PostgreSQL · Prisma · Better Auth · GitHub Apps
+
+**Highlights**
+- Repository-level RAG for context-aware code reviews
+- Vector indexing and semantic retrieval with Pinecone
+- Event-driven AI workflows using Inngest
+- Automated GitHub pull-request reviews
+
+---
+
+### r0.dev — Autonomous AI App Builder
+
+An AI-powered full-stack application builder with an autonomous coding agent capable of planning tasks, executing commands, manipulating files, and generating applications inside isolated cloud environments.
+
+**Tech:** Next.js · TypeScript · Inngest AgentKit · E2B · Prisma · PostgreSQL · Clerk
+
+**Highlights**
+- Multi-step autonomous coding agent
+- Tool calling for terminal and file operations
+- Isolated code execution using E2B sandboxes
+- Live application previews
+
+---
+
+### FormBuilder SaaS
+
+A type-safe full-stack form-building platform built using a monorepo architecture with separate frontend, API, database, and shared packages.
+
+**Tech:** Next.js · TypeScript · Express · tRPC · Turborepo · Drizzle · PostgreSQL · Zod
+
+**Highlights**
+- Visual form builder and public form runner
+- End-to-end type-safe APIs with tRPC
+- Response and submission dashboard
+- Shared monorepo architecture
+
+---
+
+## 🧠 Applied AI
+
+Currently working with and learning:
+
+`RAG` · `AI Agents` · `Tool Calling` · `Embeddings` · `Vector Search` · `LLM APIs` · `Agentic Workflows` · `LLM Evaluation`
+
+I'm particularly interested in taking AI applications from:
+
+> **"It works" → "It works reliably at scale."**
+
+That means learning more about system design, retrieval quality, agent reliability, observability, asynchronous processing, caching, and production AI architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`JavaScript` · `TypeScript` · `Java` · `Python` · `SQL`
+
+**Frontend**
+
+`React` · `Next.js` · `Tailwind CSS` · `TanStack Query`
+
+**Backend**
+
+`Node.js` · `Express` · `Spring Boot` · `REST APIs` · `tRPC`
+
+**Applied AI**
+
+`RAG` · `LLM APIs` · `AI Agents` · `Tool Calling` · `Embeddings` · `Vector Search` · `Vercel AI SDK` · `OpenRouter`
+
+**Data & Infrastructure**
+
+`PostgreSQL` · `MongoDB` · `Prisma` · `Drizzle` · `Pinecone` · `Qdrant` · `Redis` · `Inngest` · `BullMQ`
+
+**Tools**
+
+`Git` · `GitHub` · `Docker` · `Postman`
+
+---
+
+## 🤝 Let's Build
+
+I'm interested in collaborating on:
+
+- AI developer tools
+- RAG applications
+- AI agents
+- Intelligent automation
+- Developer productivity tools
+- Full-stack AI products
+- Open-source projects
+
+If we're building something people would actually use, I'm interested.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=rayyan4533&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayyan4533&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rayyan4533&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayyan4533&style=flat&color=grey" alt="Profile views" />
+</p>
