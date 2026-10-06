@@ -112,17 +112,3 @@ If we're building something people would actually use, I'm interested.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rayyan4533&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayyan4533&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rayyan4533&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayyan4533&style=flat&color=grey" alt="Profile views" />
-</p>
