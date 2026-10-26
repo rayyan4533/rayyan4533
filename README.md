@@ -6,8 +6,7 @@ I build full-stack products and AI-powered applications, with a focus on RAG, AI
 
 I enjoy building software that solves real problems—products I would use myself or that make someone else's life easier.
 
-📂 Explore All My GitHub Repositories →
-
+[**📂 Explore All My GitHub Repositories →**](https://github.com/rayyan4533?tab=repositories)
 ---
 
 ## 🚀 What I'm Building
